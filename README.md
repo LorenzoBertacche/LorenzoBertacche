@@ -1,4 +1,4 @@
-### Hi there 👋
+### O importante é persistir
 
 <!--
 **LorenzoBertacche/LorenzoBertacche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
