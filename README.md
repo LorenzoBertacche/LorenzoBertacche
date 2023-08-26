@@ -4,6 +4,6 @@
 
 ### Contact: 
 
-![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) lorenzo.bertacche@escola.pr.gov.br 
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gmail.com/aluraonline/) lorenzo.bertacche@escola.pr.gov.br 
 
 ![](https://media.tenor.com/2jmTtJMSXBsAAAAC/sfera-ebbasta.gif)
