@@ -5,3 +5,5 @@
 ### Contact: 
 
 E-mail: lorenzo.bertacche@escola.pr.gov.br 
+
+![](https://media.tenor.com/2jmTtJMSXBsAAAAC/sfera-ebbasta.gif)
